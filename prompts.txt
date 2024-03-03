@@ -1,0 +1,7 @@
+  "Understand the tweet first and get the idea of the context: '{tweet}'. Assign only 1 label from following: Positive, Extremely positive, Negative, Extremely Negative. I need a one sentence reasoning as well and nothing extra."
+
+
+    "Get the context of the tweet provided: '{tweet}'. Must assign a label according to context from the following: Positive, Extremely positive, Negative, Extremely Negative. i also need you to provide a one line reasoning as well, thank you<3."
+
+
+    "Understand the context of the tweet and get the tone of it: '{tweet}'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line."

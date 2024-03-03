@@ -1,0 +1,1042 @@
+No.,tweet,Prompt,generated annotations,explanation
+1,TRENDING New Yorkers encounter empty supermarket shelves pictured Wegmans in Brooklyn soldout online grocers FoodKick MaxDelivery as coronavirusfearing shoppers stock up httpstcoGr76pcrLWh httpstcoivMKMsqdT1,"Understand the context of the tweet and get the tone of it: 'TRENDING New Yorkers encounter empty supermarket shelves pictured Wegmans in Brooklyn soldout online grocers FoodKick MaxDelivery as coronavirusfearing shoppers stock up httpstcoGr76pcrLWh httpstcoivMKMsqdT1'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Extremely Negative
+
+Reason: The tweet conveys a sense of panic and urgency, with the use of terms like ""soldout"" and ""coronavirusfearing shoppers."" It suggests a bleak scenario where essential items are scarce due to mass panic."
+2,When I couldnt find hand sanitizer at Fred Meyer I turned to Amazon But 11497 for a 2 pack of PurellCheck out how  coronavirus concerns are driving up prices httpstcoygbipBflMY,"Understand the context of the tweet and get the tone of it: 'When I couldnt find hand sanitizer at Fred Meyer I turned to Amazon But 11497 for a 2 pack of PurellCheck out how  coronavirus concerns are driving up prices httpstcoygbipBflMY'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"The tweet also includes a link to an article about how coronavirus concerns are driving up prices.
+
+Tone: The tone of the tweet is negative. The author is frustrated that they couldn't find hand sanitizer at a local store and then had to pay a very high price for it on Amazon. The author also seems to be concerned about how coronavirus concerns are driving up prices.
+
+Label: Negative"
+3,Find out how you can protect yourself and loved ones from coronavirus ,"Understand the context of the tweet and get the tone of it: 'Find out how you can protect yourself and loved ones from coronavirus '. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Reason: The tweet encourages protective measures, conveying a sense of empowerment and reassurance."
+4,"Panic buying hits NewYork City as anxious shoppers stock up on foodampmedical supplies after healthcare worker in her 30s becomes BigApple 1st confirmed coronavirus patient OR a Bloomberg staged event
+
+
+
+httpstcoIASiReGPC4
+
+
+
+QAnon QAnon2018 QAnon2020 
+
+Election2020 CDC httpstco29isZOewxu","Understand the context of the tweet and get the tone of it: 'Panic buying hits NewYork City as anxious shoppers stock up on foodampmedical supplies after healthcare worker in her 30s becomes BigApple 1st confirmed coronavirus patient OR a Bloomberg staged event
+
+
+
+httpstcoIASiReGPC4
+
+
+
+QAnon QAnon2018 QAnon2020 
+
+Election2020 CDC httpstco29isZOewxu'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Extremely Negative
+
+Thought Process: The tweet expresses concerns about the negative impact of panic buying, including stockpiling of food and medical supplies. The use of the term ""staged event"" suggests a belief that the situation is being manipulated for political or other reasons."
+5,toiletpaper dunnypaper coronavirus coronavirusaustralia CoronaVirusUpdate Covid_19 9News  Corvid19 7NewsMelb dunnypapergate Costco    One week everyone buying baby milk powder the next everyone buying up toilet paper httpstcoScZryVvsIh,"Understand the context of the tweet and get the tone of it: 'toiletpaper dunnypaper coronavirus coronavirusaustralia CoronaVirusUpdate Covid_19 9News  Corvid19 7NewsMelb dunnypapergate Costco    One week everyone buying baby milk powder the next everyone buying up toilet paper httpstcoScZryVvsIh'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Negative
+
+Thought process: The tweet expresses a negative sentiment towards the hoarding of toilet paper. The author uses phrases such as ""buying up"" and ""hoarding"" to convey a sense of disapproval. The hashtag ""#dunnypapergate"" also suggests that the author believes the situation is ridiculous and worthy of mockery."
+6,Do you remember the last time you paid 299 a gallon for regular gas in Los AngelesPrices at the pump are going down A look at how the coronavirus is impacting prices 4pm ABC7 httpstcoPyzq8YMuV5,"Understand the context of the tweet and get the tone of it: 'Do you remember the last time you paid 299 a gallon for regular gas in Los AngelesPrices at the pump are going down A look at how the coronavirus is impacting prices 4pm ABC7 httpstcoPyzq8YMuV5'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Label: Positive
+
+Thought process: The tweet highlights the positive news of declining gas prices, which can be beneficial for consumers."
+7,Voting in the age of coronavirus  hand sanitizer  SuperTuesday httpstcoz0BeL4O6Dk,"Understand the context of the tweet and get the tone of it: 'Voting in the age of coronavirus  hand sanitizer  SuperTuesday httpstcoz0BeL4O6Dk'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: The tone of the tweet is neutral. It provides information about voting during the pandemic without expressing any particular opinion.
+
+Label: Neutral
+
+Thought process: The tweet does not express any positive or negative opinions about voting during the pandemic. It simply provides information about the topic."
+8,"DrTedros We canÂt stop COVID19 without protecting healthworkers
+
+Prices of surgical masks have increased sixfold N95 respirators have more than trebled amp gowns cost twice as muchDrTedros coronavirus","Understand the context of the tweet and get the tone of it: 'DrTedros We canÂt stop COVID19 without protecting healthworkers
+
+Prices of surgical masks have increased sixfold N95 respirators have more than trebled amp gowns cost twice as muchDrTedros coronavirus'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label Assignment: Extremely Negative
+
+Thought Process: The tweet highlights the extreme increase in prices of essential PPE, indicating a severe shortage and potentially putting healthcare workers at risk. The use of the phrase ""we can't stop COVID-19 without protecting health workers"" further emphasizes the urgency and dire consequences of the situation."
+9,HI TWITTER I am a pharmacist I sell hand sanitizer for a living Or I do when any exists Like masks it is sold the fuck out everywhere SHOULD YOU BE WORRIED No Use soap SHOULD YOU VISIT TWENTY PHARMACIES LOOKING FOR THE LAST BOTTLE No Pharmacies are full of sick people,"Understand the context of the tweet and get the tone of it: 'HI TWITTER I am a pharmacist I sell hand sanitizer for a living Or I do when any exists Like masks it is sold the fuck out everywhere SHOULD YOU BE WORRIED No Use soap SHOULD YOU VISIT TWENTY PHARMACIES LOOKING FOR THE LAST BOTTLE No Pharmacies are full of sick people'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+10,Anyone been in a supermarket over the last few days Went to do my NORMAL shop last night amp is the sight that greeted me Barmy Btw whatÂs so special about tinned tomatoes  Covid_19 Dublin httpstcorGsM8xUxr6,"Understand the context of the tweet and get the tone of it: 'Anyone been in a supermarket over the last few days Went to do my NORMAL shop last night amp is the sight that greeted me Barmy Btw whatÂs so special about tinned tomatoes  Covid_19 Dublin httpstcorGsM8xUxr6'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Negative
+
+Thought process: The tweet uses words like ""Barmy"" and ""NORMAL"" to express frustration with the situation."
+11,"Best quality couches at unbelievably low prices available to order
+
+
+
+We are in Boksburg GP 
+
+
+
+For more info WhatsApp
+
+084 764 8086
+
+
+
+SuperTuesdsy PowerTalk 
+
+Covid_19 SayEntrepreneur 
+
+DJSBU httpstcoHhDJhyQ2Dc","Understand the context of the tweet and get the tone of it: 'Best quality couches at unbelievably low prices available to order
+
+
+
+We are in Boksburg GP 
+
+
+
+For more info WhatsApp
+
+084 764 8086
+
+
+
+SuperTuesdsy PowerTalk 
+
+Covid_19 SayEntrepreneur 
+
+DJSBU httpstcoHhDJhyQ2Dc'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+12,"Beware of counterfeits trying to sell fake masks at cheap prices Lets defeat coronavirus threat Covid_19 collectively BeSafe BeACascader CoronavirusReachesDelhi 
+
+coronavirusindia 
+
+
+
+httpstco2Ikkmimj4f httpstcoRB9rtt7Nkc","Understand the context of the tweet and get the tone of it: 'Beware of counterfeits trying to sell fake masks at cheap prices Lets defeat coronavirus threat Covid_19 collectively BeSafe BeACascader CoronavirusReachesDelhi 
+
+coronavirusindia 
+
+
+
+httpstco2Ikkmimj4f httpstcoRB9rtt7Nkc'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Extremely negative. The tweet conveys a strong sense of concern and urgency, warning people about the dangers of counterfeit masks and urging them to take collective action against the pandemic.
+
+Label: Extremely Negative"
+13,"Panic food buying in Germany due to coronavirus has begun  But the organic is left behind Hamsterkauf
+
+
+
+Panic buying is called Hamster purchasesHamsterkÃufe in German taken from the way Hamsters stuff their cheeks with food  
+
+
+
+httpstcoaYQtLLGW1m","Understand the context of the tweet and get the tone of it: 'Panic food buying in Germany due to coronavirus has begun  But the organic is left behind Hamsterkauf
+
+
+
+Panic buying is called Hamster purchasesHamsterkÃufe in German taken from the way Hamsters stuff their cheeks with food  
+
+
+
+httpstcoaYQtLLGW1m'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"The fact that organic food is being left behind suggests that people are not prioritizing healthy choices, which is also a negative aspect."
+14,"Covid_19 Went to the Grocery Store turns out all cleaning supplies have been bought out for fear of Coronavirus
+
+
+
+My daughters substitute teacher showed her class how to make hand sanitizer Now I just need to buy some 100 alcohol Wish me luck that any stores will have it","Understand the context of the tweet and get the tone of it: 'Covid_19 Went to the Grocery Store turns out all cleaning supplies have been bought out for fear of Coronavirus
+
+
+
+My daughters substitute teacher showed her class how to make hand sanitizer Now I just need to buy some 100 alcohol Wish me luck that any stores will have it'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+15,While we were busy watching election returns and bracing for a Covid19 outbreak Trump nominated a chemicalindustry lobbyist to head the Consumer Product Safety Commission httpstcoM2ShHI1Tn0,"Understand the context of the tweet and get the tone of it: 'While we were busy watching election returns and bracing for a Covid19 outbreak Trump nominated a chemicalindustry lobbyist to head the Consumer Product Safety Commission httpstcoM2ShHI1Tn0'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+16,"AirSewa 
+
+
+
+flyspicejet is not providing webchecin customers free seats
+
+
+
+Passengers are forced to choose paid seats as free seats are made available only at airport counter 
+
+
+
+This should be stopped as itÂs discriminatory and against travellers rights 
+
+
+
+HardeepSPuri MoCA_GoI","Understand the context of the tweet and get the tone of it: 'AirSewa 
+
+
+
+flyspicejet is not providing webchecin customers free seats
+
+
+
+Passengers are forced to choose paid seats as free seats are made available only at airport counter 
+
+
+
+This should be stopped as itÂs discriminatory and against travellers rights 
+
+
+
+HardeepSPuri MoCA_GoI'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,It highlights the perceived discrimination against travelers and violation of their rights.
+17,"What Precautionary measures have you all taken in your respective Restaurants and Hotels Comment below
+
+COVID19 Coronavirus
+
+
+
+COVID19 Hotel chains enforce precautionary measures issue safety hygiene advisories
+
+httpstco7Zo2vqSPzY","Understand the context of the tweet and get the tone of it: 'What Precautionary measures have you all taken in your respective Restaurants and Hotels Comment below
+
+COVID19 Coronavirus
+
+
+
+COVID19 Hotel chains enforce precautionary measures issue safety hygiene advisories
+
+httpstco7Zo2vqSPzY'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"The tone is proactive and informative, indicating a commitment to ensuring safety."
+18,When youÂre stockpiling food amp other supplies buy extra for your local food bank Many families donÂt have the luxury to spend beyond their weekly budget DailyBreadTO  coronavirus,"Understand the context of the tweet and get the tone of it: 'When youÂre stockpiling food amp other supplies buy extra for your local food bank Many families donÂt have the luxury to spend beyond their weekly budget DailyBreadTO  coronavirus'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"The tone is positive and compassionate, urging people to act with kindness and generosity towards others."
+19,"Thats about a week from now A bit optimistic  Probably it will take another month  Supply chain may be recovering demand chain will be nonexistent in US and Europe for the next month or two
+
+spx qqq es nq httpstcoyXcOfL0BnI","Understand the context of the tweet and get the tone of it: 'Thats about a week from now A bit optimistic  Probably it will take another month  Supply chain may be recovering demand chain will be nonexistent in US and Europe for the next month or two
+
+spx qqq es nq httpstcoyXcOfL0BnI'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Negative
+
+Thought Process: The tweet suggests that the supply chain may be recovering but demand will remain weak in the US and Europe for the next month or two, indicating a pessimistic view on the market."
+20,"Studies show the coronavirus like COVID19 can live up to nine days on hard surfaces like metal plastic and glass
+
+
+
+Our Deputy Commissioner of Consumer Affairs Mary Barzee Flores shows you how to keep clean at the gas pump
+
+
+
+Watch and share httpstcoAIqATWT5zz","Understand the context of the tweet and get the tone of it: 'Studies show the coronavirus like COVID19 can live up to nine days on hard surfaces like metal plastic and glass
+
+
+
+Our Deputy Commissioner of Consumer Affairs Mary Barzee Flores shows you how to keep clean at the gas pump
+
+
+
+Watch and share httpstcoAIqATWT5zz'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"This implies a threat to well-being, hence the negative tone."
+21,CoronaVirus COVID_19 People are starting to become frightened and to do PanicShopping Many shelves meanwhile turn empty as goods are sold FaceMasks amp disinfection liquid are sold out or they are sold for exorbitant prices Blockchain CryptoNews httpstcoAkR3lmLEKf,"Understand the context of the tweet and get the tone of it: 'CoronaVirus COVID_19 People are starting to become frightened and to do PanicShopping Many shelves meanwhile turn empty as goods are sold FaceMasks amp disinfection liquid are sold out or they are sold for exorbitant prices Blockchain CryptoNews httpstcoAkR3lmLEKf'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Extremely Negative
+
+Label Assignment: Extremely Negative
+
+Thought Process: The tweet conveys a sense of fear, frustration, and frustration caused by the pandemic, with the empty shelves and excessive prices highlighting the negative impact on people's well-being and access to essential supplies."
+22,For those of you that think creditdebit is just as good as bitcoin when it comes to combating coronavirus keep in mind that this is not a contactless transaction  How many people at your grocery store or gas station touch this keypad every day httpstcoWVq8bb9OlS,"Understand the context of the tweet and get the tone of it: 'For those of you that think creditdebit is just as good as bitcoin when it comes to combating coronavirus keep in mind that this is not a contactless transaction  How many people at your grocery store or gas station touch this keypad every day httpstcoWVq8bb9OlS'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,It also raises concerns about the potential spread of the virus through the shared use of keypads.
+23,Control over stocks and gold is lostgold coming back very nicely Loves wallbridge and Balmoral and warns listeners about coronavirus Sprott Money Ltd recently put in money to OCG GENM MMG and many more httpstco3aURZ2e4Sj,"Understand the context of the tweet and get the tone of it: 'Control over stocks and gold is lostgold coming back very nicely Loves wallbridge and Balmoral and warns listeners about coronavirus Sprott Money Ltd recently put in money to OCG GENM MMG and many more httpstco3aURZ2e4Sj'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Label: Positive
+
+Thought process: The tweet provides positive recommendations on specific stocks and discusses the potential benefits of gold investments. The use of terms such as ""coming back very nicely"" and ""loves"" suggests a bullish outlook."
+24,"Sellers are cashing on your panic to sell facemasks and sanitizers at super inflated prices
+
+
+
+In reality neither sanitizer nor facemasks are must have to save yourself from coronavirus 
+
+
+
+Please watch this video for more 
+
+
+
+httpstcosgOFnAu4j8","Understand the context of the tweet and get the tone of it: 'Sellers are cashing on your panic to sell facemasks and sanitizers at super inflated prices
+
+
+
+In reality neither sanitizer nor facemasks are must have to save yourself from coronavirus 
+
+
+
+Please watch this video for more 
+
+
+
+httpstcosgOFnAu4j8'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+25,"CanadasÂ oilpatch is bracing for the impact of plunging crude prices afterÂ OPEC and its allies failed to reach a deal aimed at cutting production as economies slow becauseÂ of the novel coronavirus The fool Jkenney based his budget on hired oil prices 
+
+
+
+httpstcofDCpQPvPuo","Understand the context of the tweet and get the tone of it: 'CanadasÂ oilpatch is bracing for the impact of plunging crude prices afterÂ OPEC and its allies failed to reach a deal aimed at cutting production as economies slow becauseÂ of the novel coronavirus The fool Jkenney based his budget on hired oil prices 
+
+
+
+httpstcofDCpQPvPuo'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Negative,"The tweet discusses the negative impact of falling crude prices and the failure of OPEC to reach an agreement on production cuts, with a tone of criticism toward the government's budget decisions."
+26,"Alright yÂall I hope our Melanin prevails but just in case I took some precautions I had some food amp water delivered  IÂve had my masks for a month and may have to open soon 
+
+ B1 FBA 
+
+
+
+CoronavirusUSA COVID httpstcocTQMDgDgtD","Understand the context of the tweet and get the tone of it: 'Alright yÂall I hope our Melanin prevails but just in case I took some precautions I had some food amp water delivered  IÂve had my masks for a month and may have to open soon 
+
+ B1 FBA 
+
+
+
+CoronavirusUSA COVID httpstcocTQMDgDgtD'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label Assignment: Negative
+
+Thought Process: The tweet expresses concern about the potential consequences of the pandemic and the need for precautions. The language used (""precations,"" ""masks,"" ""may have to open soon"") implies a sense of worry and preparedness for a potentially negative outcome."
+27,When your usual grocery shopping woolworths turns into a toilet paper fight in the supermarket aisle Yikes toiletpaperpanic for the coronavirus has taken a whole new level httpstcoaKJ283I20C,"Understand the context of the tweet and get the tone of it: 'When your usual grocery shopping woolworths turns into a toilet paper fight in the supermarket aisle Yikes toiletpaperpanic for the coronavirus has taken a whole new level httpstcoaKJ283I20C'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative.
+
+Label: Extremely Negative.
+
+Thought Process: The tweet conveys a sense of panic and chaos, with people resorting to violence to hoard toilet paper. This suggests a negative and extreme situation."
+28,"Coronavirus panic spreads Costco is pulling free samples over COVID19  USA TODAY
+
+
+
+Coronavirus panic spreads Costco is pulling free samples over COVID19Â Â USA TODAY
+
+
+
+Its pandemonium virus panicbuying hits Los AngelesÂ Â Yahoo News
+
+
+
+How Costco is HaÂ httpstcoMyTDpDomEI","Understand the context of the tweet and get the tone of it: 'Coronavirus panic spreads Costco is pulling free samples over COVID19  USA TODAY
+
+
+
+Coronavirus panic spreads Costco is pulling free samples over COVID19Â Â USA TODAY
+
+
+
+Its pandemonium virus panicbuying hits Los AngelesÂ Â Yahoo News
+
+
+
+How Costco is HaÂ httpstcoMyTDpDomEI'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"The use of words like ""pandemonium"" and ""panic buying"" highlights the negative tone of the tweet."
+29,While you are stocking up waiting for quarantine if you can dont forget to donate  food water and toiletries to your local food banks to help others without the means to stock up Get ahead of it before it becomes a crisis covid19 coronavirus,"Understand the context of the tweet and get the tone of it: 'While you are stocking up waiting for quarantine if you can dont forget to donate  food water and toiletries to your local food banks to help others without the means to stock up Get ahead of it before it becomes a crisis covid19 coronavirus'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Label Assignment: Extremely positive
+
+Thought Process: The tweet promotes a selfless act of kindness and compassion towards others during a time of crisis."
+30,"Coronavirus is an exposure of all the holes in the social safety net says NELP Government Affairs Director Judy Conti
+
+
+
+UI Unemployment PaidLeaveForAll
+
+httpstcoBrCY9IJWSv","Understand the context of the tweet and get the tone of it: 'Coronavirus is an exposure of all the holes in the social safety net says NELP Government Affairs Director Judy Conti
+
+
+
+UI Unemployment PaidLeaveForAll
+
+httpstcoBrCY9IJWSv'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Extremely Negative
+
+Thought Process: The tweet expresses a critical view of the current state of social protections, suggesting that they are inadequate and have failed to provide necessary support during the crisis."
+31,Two important phone numbers NYers should know If you have no doctor or insurance and think you may be sick and need to be tested for coronavirus call the states helpline 18883643065 To report price gouging call the Div of Consumer Protection at 18006971220,"Understand the context of the tweet and get the tone of it: 'Two important phone numbers NYers should know If you have no doctor or insurance and think you may be sick and need to be tested for coronavirus call the states helpline 18883643065 To report price gouging call the Div of Consumer Protection at 18006971220'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Thought process: The tweet provides helpful information on how New Yorkers can access necessary resources (e.g., testing, price gouging reporting) during a public health emergency, indicating a positive tone."
+32,"Tip for all Pro Wrestlers to help combat the coronavirusbe more like ZoeLucasPro and bring hand sanitizer to your matches as a precaution
+
+
+
+EVEWrestling ProWrestlingEVE httpstcoSUYUsaPm7j","Understand the context of the tweet and get the tone of it: 'Tip for all Pro Wrestlers to help combat the coronavirusbe more like ZoeLucasPro and bring hand sanitizer to your matches as a precaution
+
+
+
+EVEWrestling ProWrestlingEVE httpstcoSUYUsaPm7j'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+Thought process: The tweet suggests a practical and responsible measure to prevent the spread of the virus. It encourages wrestlers to prioritize health and safety."
+33,"Is this effective
+
+Is it necessary
+
+Or is it just optics
+
+Scare tactics
+
+For the American consumer
+
+For US MSM to use
+
+If optics What is the intended effect
+
+Fear
+
+Crash US Marketgtpanicgtelect Biden
+
+
+
+Qanon coronavirus httpstcoH48ZMfuAme","Understand the context of the tweet and get the tone of it: 'Is this effective
+
+Is it necessary
+
+Or is it just optics
+
+Scare tactics
+
+For the American consumer
+
+For US MSM to use
+
+If optics What is the intended effect
+
+Fear
+
+Crash US Marketgtpanicgtelect Biden
+
+
+
+Qanon coronavirus httpstcoH48ZMfuAme'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Negative
+
+Thought process: The tweet uses phrases like ""scare tactics"" and ""crash US Market"" to convey a negative tone towards the media's tactics."
+34,IMHO Russias rug pull on oil prices is designed to end the dollar as the global reserve currency How Corp debt collapse led by high yield and fracking compounded by COVID19 will mean Fed and US Govt respond with MMT Ciao dollar Alt is collapse Got Gold or Silver yet,"Understand the context of the tweet and get the tone of it: 'IMHO Russias rug pull on oil prices is designed to end the dollar as the global reserve currency How Corp debt collapse led by high yield and fracking compounded by COVID19 will mean Fed and US Govt respond with MMT Ciao dollar Alt is collapse Got Gold or Silver yet'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,The tweet also encourages people to buy gold or silver as an alternative to the dollar.
+35,So not due to Brexit at all then gtgt Supermarkets begin foodrationing after wave of coronavirusfuelled panic buying httpstcoAKgkHxO0tW,"Understand the context of the tweet and get the tone of it: 'So not due to Brexit at all then gtgt Supermarkets begin foodrationing after wave of coronavirusfuelled panic buying httpstcoAKgkHxO0tW'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+36,"Remember with all the media deflection stories about bog rolls panicbuying food shortages Covid19 Irish bridges etc etc
+
+
+
+Weve still got Brexit Austerity poverty a crashing economy amp the worst UK Govt in living memory 
+
+
+
+All depressing stuff amp it aint gonna end well","Understand the context of the tweet and get the tone of it: 'Remember with all the media deflection stories about bog rolls panicbuying food shortages Covid19 Irish bridges etc etc
+
+
+
+Weve still got Brexit Austerity poverty a crashing economy amp the worst UK Govt in living memory 
+
+
+
+All depressing stuff amp it aint gonna end well'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+37,Fellow Uni instructors COVID19 f2f class cancelations are  inconvenient But remember youre salaried employees Maybe callemail HR or your union amp demand to know how hourly workers clerical foodservice custodial etc will be  compensated during campus closures,"Understand the context of the tweet and get the tone of it: 'Fellow Uni instructors COVID19 f2f class cancelations are  inconvenient But remember youre salaried employees Maybe callemail HR or your union amp demand to know how hourly workers clerical foodservice custodial etc will be  compensated during campus closures'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Thought Process for Label Assignment: The tweet highlights the unfairness of salaried employees continuing to receive compensation while hourly workers may not, which creates a negative tone."
+38,"howroute ItÂs not even over food what the actual heck I have news for these people  
+
+
+
+you need food and water before you need the paper to wipe your a Just sayin  
+
+
+
+covid19 Covid_19 coronavirus corona virus panic","Understand the context of the tweet and get the tone of it: 'howroute ItÂs not even over food what the actual heck I have news for these people  
+
+
+
+you need food and water before you need the paper to wipe your a Just sayin  
+
+
+
+covid19 Covid_19 coronavirus corona virus panic'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Error: Unable to analyze tweet,Error: Unable to analyze tweet
+39,125 Part 1  Why does soap work so well on the SARSCoV2 the coronavirus and indeed most viruses Because it is a selfassembled nanoparticle in which the weakest link is the lipid fatty bilayer A two part thread about soap viruses and supramolecular chemistry COVID19 httpstcoOCwqPjO5Ht,"Understand the context of the tweet and get the tone of it: '125 Part 1  Why does soap work so well on the SARSCoV2 the coronavirus and indeed most viruses Because it is a selfassembled nanoparticle in which the weakest link is the lipid fatty bilayer A two part thread about soap viruses and supramolecular chemistry COVID19 httpstcoOCwqPjO5Ht'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"It provides scientific insights and links to further information, demonstrating a positive and informative tone."
+40,Thread Please STOP shaming folks who stock up on food and personal care products ahead of CoronaVirus COVID19 Trump made it clear that he doesnÂt care and wonÂt help so theyÂre protecting their families their way ItÂs a tiny bit of mastery and control in terrifying times httpstco12eMup9mtA,"Understand the context of the tweet and get the tone of it: 'Thread Please STOP shaming folks who stock up on food and personal care products ahead of CoronaVirus COVID19 Trump made it clear that he doesnÂt care and wonÂt help so theyÂre protecting their families their way ItÂs a tiny bit of mastery and control in terrifying times httpstco12eMup9mtA'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"It acknowledges that the government is not providing adequate support and that people are taking matters into their own hands to protect themselves and their families. The tone is sympathetic and understanding, with a sense of urgency and empowerment."
+41,For those thinking seniors disabled amp vets shouldnÂt be included in any realDonaldTrump aid package because of Covid_19 coronavirus check prices on antibacterial soaps disinfectant safer transportation other than crowded city busses list goes on SenStabenow RashidaTlaib,"Understand the context of the tweet and get the tone of it: 'For those thinking seniors disabled amp vets shouldnÂt be included in any realDonaldTrump aid package because of Covid_19 coronavirus check prices on antibacterial soaps disinfectant safer transportation other than crowded city busses list goes on SenStabenow RashidaTlaib'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Extremely Negative,"The tweet criticizes President Trump for not including seniors, disabled, and veterans in an aid package during the COVID-19 pandemic, implying that he does not care about their well-being."
+42,"So far 36 Pennsylvanians have reached out to my Office to report inflated prices on everything from disinfectant spray to liquid soap
+
+ 
+
+Price gouging like this isnÂt just wrong itÂs illegal Keep your emails coming pricegougingattorneygeneralgov coronavirus","Understand the context of the tweet and get the tone of it: 'So far 36 Pennsylvanians have reached out to my Office to report inflated prices on everything from disinfectant spray to liquid soap
+
+ 
+
+Price gouging like this isnÂt just wrong itÂs illegal Keep your emails coming pricegougingattorneygeneralgov coronavirus'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,""" The language used is urgent and implies that the situation is severe."
+43,Global stock markets continued their bear run as DowJones and SampP500 plunged as they opened on Monday Plunge was largely on the back of the 30 overnight slump in CrudeOil prices along with the persistent concerns over the impact of CoronaVirus on the global economy,"Understand the context of the tweet and get the tone of it: 'Global stock markets continued their bear run as DowJones and SampP500 plunged as they opened on Monday Plunge was largely on the back of the 30 overnight slump in CrudeOil prices along with the persistent concerns over the impact of CoronaVirus on the global economy'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Extremely Negative
+
+Thought process: The tweet mentions a ""bear run"" and a ""plunge"" in stock markets, indicating a significant decline. The factors contributing to this decline, including the drop in oil prices and concerns about the Coronavirus, are also negative indicators."
+44,Scammers are taking advantage of fears surrounding the Coronavirus Here are some tips to help you keep scammers at bay httpstcoYt892bgnBu COVID2019 httpstcokmILU80H6h,"Understand the context of the tweet and get the tone of it: 'Scammers are taking advantage of fears surrounding the Coronavirus Here are some tips to help you keep scammers at bay httpstcoYt892bgnBu COVID2019 httpstcokmILU80H6h'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Error: Unable to analyze tweet,Error: Unable to analyze tweet
+45,"Are you doing business in international markets This ExportDevCanada webinar will show you how to navigate todayÂs exporting challenges and rising commodity prices due to the COVID19 virus
+
+
+
+httpstcopDBUlOnAEI","Understand the context of the tweet and get the tone of it: 'Are you doing business in international markets This ExportDevCanada webinar will show you how to navigate todayÂs exporting challenges and rising commodity prices due to the COVID19 virus
+
+
+
+httpstcopDBUlOnAEI'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+46,For those in gig economy who only earn if ppl are going out we can immediately process refunds for 2019 Earned Income Tax Credit or Child Tax Credit  or they can borrow against 2020 credits That cash can help make ends meet until normal consumer behavior returns coronavirus,"Understand the context of the tweet and get the tone of it: 'For those in gig economy who only earn if ppl are going out we can immediately process refunds for 2019 Earned Income Tax Credit or Child Tax Credit  or they can borrow against 2020 credits That cash can help make ends meet until normal consumer behavior returns coronavirus'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+47,"I have instructed that insurance companies make COVID19 testing free This important step will help ensure cost barriers do not stand in the way of people getting tested 
+
+
+
+Read more httpstco0VrdDfNPay httpstco9JdaVZw7ai","Understand the context of the tweet and get the tone of it: 'I have instructed that insurance companies make COVID19 testing free This important step will help ensure cost barriers do not stand in the way of people getting tested 
+
+
+
+Read more httpstco0VrdDfNPay httpstco9JdaVZw7ai'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+48,The oil prices dipping has absolutely nothing to do with COVID2019 it has everything to do with OPEC talks collapsing and Saudi feuding with Russia Celebrate and calm the hell down weirdos,"Understand the context of the tweet and get the tone of it: 'The oil prices dipping has absolutely nothing to do with COVID2019 it has everything to do with OPEC talks collapsing and Saudi feuding with Russia Celebrate and calm the hell down weirdos'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Extremely Negative
+
+Thought process: The tweet uses phrases like ""celebrate"" and ""calm the hell down weirdos,"" indicating a highly negative and disdainful attitude towards those who have been discussing the potential impact of COVID-2019 on oil prices. The use of exclamation marks and capitalization further emphasizes the negative tone."
+49,"Global stocks plummeted today due to fear surrounding COVID2019 and falling oil prices which saw the biggest oneday drop since the 1991 Gulf War
+
+
+
+Lets look at how the major stock indices have been reacting to the news based on their closing values httpstcofV7IehqaDo","Understand the context of the tweet and get the tone of it: 'Global stocks plummeted today due to fear surrounding COVID2019 and falling oil prices which saw the biggest oneday drop since the 1991 Gulf War
+
+
+
+Lets look at how the major stock indices have been reacting to the news based on their closing values httpstcofV7IehqaDo'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Thought process: The words ""plummeted,"" ""fear,"" and ""biggest one-day drop"" convey a negative tone, indicating a sense of loss and concern."
+50,"The beginning of a  global recession
+
+
+
+Coronavirus damaging health crisis
+
+oil prices falling down
+
+US stocks falling down
+
+7 drop this morning amp trading halt
+
+migration crisis at the EU borders 
+
+housingCrisis amp skyrocketing rents Tenants are losing 50 of income
+
+Q","Understand the context of the tweet and get the tone of it: 'The beginning of a  global recession
+
+
+
+Coronavirus damaging health crisis
+
+oil prices falling down
+
+US stocks falling down
+
+7 drop this morning amp trading halt
+
+migration crisis at the EU borders 
+
+housingCrisis amp skyrocketing rents Tenants are losing 50 of income
+
+Q'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Extremely Negative
+
+Thought Process: The tweet focuses on a series of distressing developments that are having severe consequences around the world, indicating a very negative overall tone."
+51,7NewsSydney ScottMorrisonMP Some Factors have bought on the recession 1Ignoring percapita recessionÂ 2wage growth stagnant 3Consumer debt levels are through the roof 4 casualized work These changes in the economy are driven by government not co,"Understand the context of the tweet and get the tone of it: '7NewsSydney ScottMorrisonMP Some Factors have bought on the recession 1Ignoring percapita recessionÂ 2wage growth stagnant 3Consumer debt levels are through the roof 4 casualized work These changes in the economy are driven by government not co'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"It suggests that these changes are driven by government policies.
+
+Tone: Negative
+
+Thought process: The tweet highlights negative economic factors and criticizes government policies for driving these changes. The use of phrases like ""ignored per capita recession"" and ""consumer debt levels are through the roof"" conveys a sense of disapproval and concern."
+52,"Cuomo press conference
+
+New York is releasing new brand of state made had sanitizer prices from 080Â  6 a gallon
+
+CoronaVirusUpdates Corona CoronavirusOutbreak virus COVID2019 COVID19 NYC
+
+
+
+httpstco9jhElBwElZ","Understand the context of the tweet and get the tone of it: 'Cuomo press conference
+
+New York is releasing new brand of state made had sanitizer prices from 080Â  6 a gallon
+
+CoronaVirusUpdates Corona CoronavirusOutbreak virus COVID2019 COVID19 NYC
+
+
+
+httpstco9jhElBwElZ'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"80 per gallon.
+
+Tone: Extremely positive
+
+Reasoning: The tweet announces the release of a new product that is both affordable and essential for public health during the COVID-19 pandemic."
+53,"Ignore online offers for vaccinations There currently are no vaccines pills potions lotions lozenges or other prescription or overthecounter products available to treat or cure Coronavirus disease 2019 COVID19 Â online or in stores
+
+
+
+FTC tips httpstcoSqbf4LHB8H httpstcoDX5po1KDqi","Understand the context of the tweet and get the tone of it: 'Ignore online offers for vaccinations There currently are no vaccines pills potions lotions lozenges or other prescription or overthecounter products available to treat or cure Coronavirus disease 2019 COVID19 Â online or in stores
+
+
+
+FTC tips httpstcoSqbf4LHB8H httpstcoDX5po1KDqi'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Error: Unable to analyze tweet,Error: Unable to analyze tweet
+54,If you are lucky enough to be sitting at home with enough food to get you through a period of selfisolation please consider donating to the TrussellTrust to help those who couldnt stock up even if they wanted to TrussellTrust foodbanks coronavirus COVID19,"Understand the context of the tweet and get the tone of it: 'If you are lucky enough to be sitting at home with enough food to get you through a period of selfisolation please consider donating to the TrussellTrust to help those who couldnt stock up even if they wanted to TrussellTrust foodbanks coronavirus COVID19'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+55,"thehill Americans need to take it upon themselves to help avoid contracting covid19
+
+Prep to self quarantine for 2 wks
+
+Stop unnecessary travel or crowd gatherings
+
+Talk to your employer about how to proceed wo harm to your career
+
+Plan for sch","Understand the context of the tweet and get the tone of it: 'thehill Americans need to take it upon themselves to help avoid contracting covid19
+
+Prep to self quarantine for 2 wks
+
+Stop unnecessary travel or crowd gatherings
+
+Talk to your employer about how to proceed wo harm to your career
+
+Plan for sch'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Thought Process: The tweet encourages individuals to take proactive steps to protect themselves and others, and offers practical advice on how to do so. The use of the word ""help"" suggests a collective effort, fostering a sense of responsibility and community."
+56,"realDonaldTrump Separate Table of US Corna Virus Statistics
+
+ Very high stats of corona virus
+
+ US Governments Inability to Control Corona Virus
+
+ High Price Disinfectant Gel in USA High price of mask in USA 
+
+Food prices are rising day by day
+
+","Understand the context of the tweet and get the tone of it: 'realDonaldTrump Separate Table of US Corna Virus Statistics
+
+ Very high stats of corona virus
+
+ US Governments Inability to Control Corona Virus
+
+ High Price Disinfectant Gel in USA High price of mask in USA 
+
+Food prices are rising day by day
+
+'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+57,"ToiletPaper shortage 
+
+Dont believe everything you see on TV My Costco just nowCoronaVirus httpstcoFDviKzgFwd","Understand the context of the tweet and get the tone of it: 'ToiletPaper shortage 
+
+Dont believe everything you see on TV My Costco just nowCoronaVirus httpstcoFDviKzgFwd'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+58,"Come on guys please be like bob
+
+
+
+COVID2019 panicbuying coronavirus httpstcokMly3zNynR","Understand the context of the tweet and get the tone of it: 'Come on guys please be like bob
+
+
+
+COVID2019 panicbuying coronavirus httpstcokMly3zNynR'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: The tone is positive, possibly urging people to adopt a more positive or helpful mindset.
+
+Label: Positive"
+59,"If you have booked a ticket to an event as part of a package holiday you will be offered an alternative or a refund by your travel provider if it has been cancelled due to Coronavirus
+
+
+
+Check ABTAs consumer QampA at httpstcooUB4MNmrNA
+
+
+
+COVID19 httpstcokMHJehS2JH","Understand the context of the tweet and get the tone of it: 'If you have booked a ticket to an event as part of a package holiday you will be offered an alternative or a refund by your travel provider if it has been cancelled due to Coronavirus
+
+
+
+Check ABTAs consumer QampA at httpstcooUB4MNmrNA
+
+
+
+COVID19 httpstcokMHJehS2JH'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+60,"Breaking New Jersey officials urge residents to stock up for a two week coronavirus quarantine Just in case
+
+
+
+COVID19 
+
+httpstcofc8imQ7TAR","Understand the context of the tweet and get the tone of it: 'Breaking New Jersey officials urge residents to stock up for a two week coronavirus quarantine Just in case
+
+
+
+COVID19 
+
+httpstcofc8imQ7TAR'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Negative
+
+Thought process: The tweet conveys a sense of urgency and concern, as it advises residents to stock up for a quarantine due to a potential health crisis."
+61,"4 Russia LNG will also suffer The irony is spot LNG prices were already at a record low because of the Coronavirus and the declaration of force majeure by Chinese companies 
+
+
+
+Contracted LNG became the only way to make money until oil prices collapsed It is a big hit httpstcoksFQ4uzqAn","Understand the context of the tweet and get the tone of it: '4 Russia LNG will also suffer The irony is spot LNG prices were already at a record low because of the Coronavirus and the declaration of force majeure by Chinese companies 
+
+
+
+Contracted LNG became the only way to make money until oil prices collapsed It is a big hit httpstcoksFQ4uzqAn'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Extremely Negative
+
+Thought process: The tweet highlights the severe financial impact of the pandemic and oil price collapse on the LNG industry, with companies suffering losses and LNG prices hitting record lows."
+62,BreakingNews terrorists have watched closely as the coronavirus spins its web They now know what Americans value most Wiping their ass Citizens rush to buy toilet paper but neglect to stock up on food Terrorists are holding our toiletpaper  factories hostage Film at 11 httpstco7maYfTGxJA,"Understand the context of the tweet and get the tone of it: 'BreakingNews terrorists have watched closely as the coronavirus spins its web They now know what Americans value most Wiping their ass Citizens rush to buy toilet paper but neglect to stock up on food Terrorists are holding our toiletpaper  factories hostage Film at 11 httpstco7maYfTGxJA'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Error: Unable to analyze tweet,Error: Unable to analyze tweet
+63,"As the novel coronavirus or COVID19 continues to spread worldwide its impact on international business operations supply chains travel commodity prices consumer confidence and business forecasts is becoming increasingly acute
+
+BLGPublication httpstcoBDIedMNksK","Understand the context of the tweet and get the tone of it: 'As the novel coronavirus or COVID19 continues to spread worldwide its impact on international business operations supply chains travel commodity prices consumer confidence and business forecasts is becoming increasingly acute
+
+BLGPublication httpstcoBDIedMNksK'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label Assignment: Extremely Negative
+
+Reasoning: The tweet highlights the severe consequences of the pandemic on international business, using words like ""acute"" and ""increasingly."""
+64,Lower Oil prices lower InterestRate and some sort of fiscal stimulus is great but the consumer isnt the problem The problem is fear of coronavirus and fear of being quarantined for 14 days Thats why people stopped traveling Not because of interest rates or taxes,"Understand the context of the tweet and get the tone of it: 'Lower Oil prices lower InterestRate and some sort of fiscal stimulus is great but the consumer isnt the problem The problem is fear of coronavirus and fear of being quarantined for 14 days Thats why people stopped traveling Not because of interest rates or taxes'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"The author argues that the measures taken to stimulate the economy (lower interest rates, fiscal stimulus) are not effective in addressing the root problem of fear and uncertainty surrounding the virus."
+65,Consumers have increased their online shopping due to coronavirus httpstco5mYfz3RAD0 retail ecommerce study coronavirus httpstcoDz3H6zrWUT,"Understand the context of the tweet and get the tone of it: 'Consumers have increased their online shopping due to coronavirus httpstco5mYfz3RAD0 retail ecommerce study coronavirus httpstcoDz3H6zrWUT'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Label Assignment Thought Process: The tweet conveys a positive sentiment by presenting the increase in online shopping as a beneficial outcome."
+66,For those self indulging in thoughts of food medicine and essential household goods stock piling Like people on universal credit be stock piling FFS coronavirus,"Understand the context of the tweet and get the tone of it: 'For those self indulging in thoughts of food medicine and essential household goods stock piling Like people on universal credit be stock piling FFS coronavirus'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+67,"Ok if COVID2019 is nothing to panic about why is Italy imposing the biggest restrictions on the civilian population since WW2 
+
+How will the supermarkets be able to provide food if all the workers are told to stay at home 
+
+Same with any other Bussiness","Understand the context of the tweet and get the tone of it: 'Ok if COVID2019 is nothing to panic about why is Italy imposing the biggest restrictions on the civilian population since WW2 
+
+How will the supermarkets be able to provide food if all the workers are told to stay at home 
+
+Same with any other Bussiness'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"It questions the sustainability of essential services if workers are told to stay home.
+
+Tone: Negative
+
+Thought process: The tweet conveys a pessimistic view of the situation, emphasizing the potential difficulties and questioning the effectiveness of measures being taken."
+68,Trump said people must be vigilant then concluded Be calm Its really working out And lot of good things are going to happen The consumer is ready The consumer is so powerful in our country with what weve done with tax cuts and regulation cuts and all of those things,"Understand the context of the tweet and get the tone of it: 'Trump said people must be vigilant then concluded Be calm Its really working out And lot of good things are going to happen The consumer is ready The consumer is so powerful in our country with what weve done with tax cuts and regulation cuts and all of those things'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Trump is urging people to be vigilant, but he also assures them that ""It's really working out"" and that ""a lot of good things are going to happen."" He highlights the strength of the consumer and the positive impact of tax cuts and regulation cuts."
+69,"The top food items to stock up on in case you are quarantined 
+
+
+
+Coronavirus home stays are on peopleÂs minds Here are ten foods for stocking a pantry to support physical and mental health
+
+
+
+httpstcojrvxRIb57L","Understand the context of the tweet and get the tone of it: 'The top food items to stock up on in case you are quarantined 
+
+
+
+Coronavirus home stays are on peopleÂs minds Here are ten foods for stocking a pantry to support physical and mental health
+
+
+
+httpstcojrvxRIb57L'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Thought process: The tweet conveys a sense of preparedness and reassurance, encouraging people to stock up on essential food items to support their health and well-being during a quarantine. It does not express any negative sentiment."
+70,"Hi all Please support your local Chinese Restaurant amp order some delicious food from them  They are really struggling with the COVID2019 panic many are having to let staff go
+
+
+
+My favs in Manchester are sweetmandarin amp blueeyedpandam4
+
+Thank you 
+
+
+
+iwilleatwithyou httpstcojpDHxQMBTv","Understand the context of the tweet and get the tone of it: 'Hi all Please support your local Chinese Restaurant amp order some delicious food from them  They are really struggling with the COVID2019 panic many are having to let staff go
+
+
+
+My favs in Manchester are sweetmandarin amp blueeyedpandam4
+
+Thank you 
+
+
+
+iwilleatwithyou httpstcojpDHxQMBTv'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"The author encourages people to order food from these restaurants to help them stay afloat.
+
+Tone: Positive
+
+Label Assignment: Extremely positive
+
+Thought Process: The tweet's language is upbeat and encouraging. The author uses words like ""support,"" ""delicious,"" ""really struggling,"" and ""thank you"" to convey a positive message. The author also provides specific examples of restaurants that people can support, which shows that they are invested in helping these businesses succeed."
+71,Report any and all instances of price gouging or other COVID19 scams to the Attorney GeneralÂs Consumer Protection Hotline at 8003928222 or online at httpstcoYB2NrTWlfg coronavirus httpstcoH3QqmM3BBl,"Understand the context of the tweet and get the tone of it: 'Report any and all instances of price gouging or other COVID19 scams to the Attorney GeneralÂs Consumer Protection Hotline at 8003928222 or online at httpstcoYB2NrTWlfg coronavirus httpstcoH3QqmM3BBl'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"It provides a phone number and a website where people can report such scams.
+
+Tone: The tone of the tweet is negative, as it is about reporting scams and price gouging.
+
+Label: Negative
+
+Thought process: The tweet is about reporting negative experiences, so it has a negative tone."
+72,"Russia by breaking rank from OPEC signalled an intent to take down their nemesis American oil and gas industry
+
+
+
+USElections2020 COVID2019 OilWar are steeped in markets least favorite thing Uncertainty
+
+
+
+But THIS TIME they wont succeed
+
+
+
+Low Oil prices wont last long OOTT httpstcoTwKYxrDfoW","Understand the context of the tweet and get the tone of it: 'Russia by breaking rank from OPEC signalled an intent to take down their nemesis American oil and gas industry
+
+
+
+USElections2020 COVID2019 OilWar are steeped in markets least favorite thing Uncertainty
+
+
+
+But THIS TIME they wont succeed
+
+
+
+Low Oil prices wont last long OOTT httpstcoTwKYxrDfoW'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Thought process: The tweet conveys a pessimistic tone by highlighting the uncertainty the move creates, stating that the low oil prices won't last, and emphasizing that Russia's attempt to harm the American industry will not succeed."
+73,"80 of Retail experts talk about a significant decrease in store traffic due to coronavirus 
+
+Check our article
+
+
+
+httpstcoeobzo0WOUS","Understand the context of the tweet and get the tone of it: '80 of Retail experts talk about a significant decrease in store traffic due to coronavirus 
+
+Check our article
+
+
+
+httpstcoeobzo0WOUS'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+74,Met with members of our distributive trade today to examine their preparation   for the impact of Covid 19 Based on reports our key manufacturers and importers have at least 2 to 3 mths of stock We therefore do not expect that there will be any shortage in critical food items httpstcojtFneBWuVy,"Understand the context of the tweet and get the tone of it: 'Met with members of our distributive trade today to examine their preparation   for the impact of Covid 19 Based on reports our key manufacturers and importers have at least 2 to 3 mths of stock We therefore do not expect that there will be any shortage in critical food items httpstcojtFneBWuVy'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+75,Say you need to stock up on food for a couple of weeks heres tips on what to get and how to properly store those perishable items coronavirus httpstcoGnLgWqxpjl httpstcocCKvA2ktQ4,"Understand the context of the tweet and get the tone of it: 'Say you need to stock up on food for a couple of weeks heres tips on what to get and how to properly store those perishable items coronavirus httpstcoGnLgWqxpjl httpstcocCKvA2ktQ4'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: The tone is positive.
+
+Label: Positive
+
+Thought process: The tweet gives helpful and practical advice, indicating a positive tone."
+76,"My genuine concern around COVID2019 are folks who may have to isolate but work low wagehourly pay jobs  folks who are barely getting by who DONT get paid sick days Folks who canÂt stock up on weeks worth of food Folks who canÂt NOT work 
+
+
+
+The working poor will suffer most","Understand the context of the tweet and get the tone of it: 'My genuine concern around COVID2019 are folks who may have to isolate but work low wagehourly pay jobs  folks who are barely getting by who DONT get paid sick days Folks who canÂt stock up on weeks worth of food Folks who canÂt NOT work 
+
+
+
+The working poor will suffer most'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Thought process: The tweet highlights the potential hardships and suffering that low-wage workers will face during a pandemic, emphasizing their vulnerability and lack of resources."
+77,"We could have as many as 60 of the worlds population infected with the Coronavirus by the end of the year
+
+
+
+Your prayers are useless only science will come to the rescue If this does happen our world will not recover for years Stock up your can food people doomsdayBunker","Understand the context of the tweet and get the tone of it: 'We could have as many as 60 of the worlds population infected with the Coronavirus by the end of the year
+
+
+
+Your prayers are useless only science will come to the rescue If this does happen our world will not recover for years Stock up your can food people doomsdayBunker'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Error: Unable to analyze tweet,Error: Unable to analyze tweet
+78,IMPORTANT UPDATE Our CEO Brian Beaulieu has broadened the scope of his COVID19 webinar Expect more on the oil prices drop stock market developments retail sales and unfolding situations in China and Italy Learn more and register httpstco3muKagEw4p httpstcouOuyUfjRyW,"Understand the context of the tweet and get the tone of it: 'IMPORTANT UPDATE Our CEO Brian Beaulieu has broadened the scope of his COVID19 webinar Expect more on the oil prices drop stock market developments retail sales and unfolding situations in China and Italy Learn more and register httpstco3muKagEw4p httpstcouOuyUfjRyW'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Label: Positive
+
+Thought process: The tweet provides important information about a timely topic, using language that conveys the webinar's value and relevance."
+79,"Target taking coronavirus COVID19 seriously Stores are adding hours and staff to clean more rigorously stopping food samples bolstering order pick up and drive up encouraging employees to stay home adding more stock and limiting  of items in purchases
+
+
+
+wsyx6 httpstcop1EJDPvnyy","Understand the context of the tweet and get the tone of it: 'Target taking coronavirus COVID19 seriously Stores are adding hours and staff to clean more rigorously stopping food samples bolstering order pick up and drive up encouraging employees to stay home adding more stock and limiting  of items in purchases
+
+
+
+wsyx6 httpstcop1EJDPvnyy'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Thought process: The tweet focuses on the actions Target is taking to protect customers and employees, such as increased cleaning, additional staff, and flexible shopping options. These efforts demonstrate a commitment to safety and a positive response to the situation."
+80,CDC Older folks should stock up on food stay home amid coronavirus  Business Insider  Wow httpstcoygcPtE7F1L,"Understand the context of the tweet and get the tone of it: 'CDC Older folks should stock up on food stay home amid coronavirus  Business Insider  Wow httpstcoygcPtE7F1L'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Negative
+
+Thought process: The tweet conveys a sense of urgency and caution, advising older people to take precautions to protect themselves from the virus. The use of the words ""stock up"" and ""stay home"" suggests that the situation is serious and that older people should be prepared for a period of isolation."
+81,"If 1000000 get infected with a 2 death rate for the coronavirus then 20000 will die in USA
+
+
+
+If you dont have mo mney to stock up food then find a fishing hole and supplies to hunt and fish","Understand the context of the tweet and get the tone of it: 'If 1000000 get infected with a 2 death rate for the coronavirus then 20000 will die in USA
+
+
+
+If you dont have mo mney to stock up food then find a fishing hole and supplies to hunt and fish'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Thought Process: The tweet insinuates that a significant number of people will die from coronavirus, and that those without financial resources will have to fend for themselves in extreme ways. This tone is highly pessimistic and alarming."
+82,Every shop chemist or retailer of any sort who raises prices during coronavirus should be boycotted when its all over The greed in this country starts with those whove governed us for almost 100 years FF and FG have made many of us lose our compassion and decency,"Understand the context of the tweet and get the tone of it: 'Every shop chemist or retailer of any sort who raises prices during coronavirus should be boycotted when its all over The greed in this country starts with those whove governed us for almost 100 years FF and FG have made many of us lose our compassion and decency'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Error: Unable to analyze tweet,Error: Unable to analyze tweet
+83,No witch hazel wont help protect you from coronavirus even in a DIY hand sanitizer httpstcoDYyShJHRGm AmeshAA,"Understand the context of the tweet and get the tone of it: 'No witch hazel wont help protect you from coronavirus even in a DIY hand sanitizer httpstcoDYyShJHRGm AmeshAA'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,The tone is dismissive and the article dismisses witch hazel properties and DIY hand sanitizers.
+84,"thehill DonaldTrump with lies or with rumor
+
+Never recognized his sense of humor
+
+so he sells us his balm
+
+just tells us to stay calm
+
+And blames it all on the consumer 
+
+
+
+COVID19 Trumpdemic coronavirus","Understand the context of the tweet and get the tone of it: 'thehill DonaldTrump with lies or with rumor
+
+Never recognized his sense of humor
+
+so he sells us his balm
+
+just tells us to stay calm
+
+And blames it all on the consumer 
+
+
+
+COVID19 Trumpdemic coronavirus'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Error: Unable to analyze tweet,Error: Unable to analyze tweet
+85,"realDonaldTrump 
+
+THE BALM OF CORONAVIRUS
+
+
+
+DonaldTrump with lies or with rumor
+
+Never recognized his sense of humor
+
+so he sells us his balm
+
+tells us just to stay calm
+
+And blames it all on the consumer COVID19 Trumpdemic coronaviru","Understand the context of the tweet and get the tone of it: 'realDonaldTrump 
+
+THE BALM OF CORONAVIRUS
+
+
+
+DonaldTrump with lies or with rumor
+
+Never recognized his sense of humor
+
+so he sells us his balm
+
+tells us just to stay calm
+
+And blames it all on the consumer COVID19 Trumpdemic coronaviru'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Error: Unable to analyze tweet,Error: Unable to analyze tweet
+86,Q1 earnings are expected to be heavily impacted by coronavirus with steep declines in commodity prices and analysts cutting estimates TDhillon33 and DaveAurelio analyse the data httpstco1uhWfTLx6u TrustedData Refinitiv  COVID19 httpstcoafvLnL1zIA,"Understand the context of the tweet and get the tone of it: 'Q1 earnings are expected to be heavily impacted by coronavirus with steep declines in commodity prices and analysts cutting estimates TDhillon33 and DaveAurelio analyse the data httpstco1uhWfTLx6u TrustedData Refinitiv  COVID19 httpstcoafvLnL1zIA'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Thought process: The tweet uses words like ""heavily impacted,"" ""steep declines,"" and ""cutting estimates"" to convey a negative outlook for Q1 earnings."
+87,"These are some of the suggestions to slowstop COVID2019
+
+1 Work remotely from home 
+
+2 Online school lectures
+
+ 3Keep updated on the HSEDept of Health website 
+
+4 Order shopping online for delivery ALL  NEED BROADBAND remoteworking broadband rural","Understand the context of the tweet and get the tone of it: 'These are some of the suggestions to slowstop COVID2019
+
+1 Work remotely from home 
+
+2 Online school lectures
+
+ 3Keep updated on the HSEDept of Health website 
+
+4 Order shopping online for delivery ALL  NEED BROADBAND remoteworking broadband rural'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Extremely Positive
+
+Thought Process: The tweet conveys a sense of urgency in implementing these suggestions to mitigate the impact of COVID2019, showcasing the positive benefits of remote work and online resources in reducing the spread of the virus."
+88,Retailers gouging consumer on Clorox spray wipes and sanitizers What use to be under 5 is now 29 or more Even if itÂs available Gee bet they make it all in China  sanitizer coronavirus,"Understand the context of the tweet and get the tone of it: 'Retailers gouging consumer on Clorox spray wipes and sanitizers What use to be under 5 is now 29 or more Even if itÂs available Gee bet they make it all in China  sanitizer coronavirus'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+89,"Stay vigilant stay safe As we adapt to COVID19 know that our office is here for you We can answer questions about scams sick time and fraud
+
+
+
+Consumer Hotline 6177278400
+
+Health Care Hotline 18888306277
+
+Fair Labor Hotline 6177273465 httpstcoGjNWCmtY1U","Understand the context of the tweet and get the tone of it: 'Stay vigilant stay safe As we adapt to COVID19 know that our office is here for you We can answer questions about scams sick time and fraud
+
+
+
+Consumer Hotline 6177278400
+
+Health Care Hotline 18888306277
+
+Fair Labor Hotline 6177273465 httpstcoGjNWCmtY1U'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Thought process: The tweet offers helpful advice and contact information for support, indicating a positive attitude towards supporting people during the crisis."
+90,"Even without the coronavirus suspension or elimination of the payrolltax is the quickest and most sensible means of enhancing consumer liquidity for working Americans especially parttime and low wage workers
+
+
+
+Once again realDonaldTrump is doing exactly the right thing","Understand the context of the tweet and get the tone of it: 'Even without the coronavirus suspension or elimination of the payrolltax is the quickest and most sensible means of enhancing consumer liquidity for working Americans especially parttime and low wage workers
+
+
+
+Once again realDonaldTrump is doing exactly the right thing'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Extremely Positive
+
+Thought Process: The tweet highly praises realDonaldTrump's decision, using absolute terms like ""exactly the right thing."""
+91,"This is the advice from national US health experts for over 60s on avoiding coronavirus
+
+
+
+CDC Americans over 60 should stock up on food and medications and avoid venturing out as the coronavirus spreads
+
+
+
+UK gov wash your hands amp carry on
+
+
+
+Covid_19 
+
+
+
+httpstcoQKolJTOPdr","Understand the context of the tweet and get the tone of it: 'This is the advice from national US health experts for over 60s on avoiding coronavirus
+
+
+
+CDC Americans over 60 should stock up on food and medications and avoid venturing out as the coronavirus spreads
+
+
+
+UK gov wash your hands amp carry on
+
+
+
+Covid_19 
+
+
+
+httpstcoQKolJTOPdr'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"The advice from the US experts is to stock up on food and medications and avoid venturing out, while the advice from the UK government is to wash your hands and carry on. The contrast between the two pieces of advice suggests that the situation in the US is more serious than in the UK, and the overall tone of the tweet is therefore negative."
+92,"The awful impacts of the Coronavirus are continuing to be felt around the world 
+
+These events in China are also affecting the UK container industry But what does this mean for you as a consumer looking to buy ShippingContainers
+
+Find out more httpstcoir3YeBoFbS
+
+MrBox httpstcowLHwiAVhIB","Understand the context of the tweet and get the tone of it: 'The awful impacts of the Coronavirus are continuing to be felt around the world 
+
+These events in China are also affecting the UK container industry But what does this mean for you as a consumer looking to buy ShippingContainers
+
+Find out more httpstcoir3YeBoFbS
+
+MrBox httpstcowLHwiAVhIB'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,
+93,Wash your hands more often for 20 seconds with soap and water Or use hand sanitiser,"Understand the context of the tweet and get the tone of it: 'Wash your hands more often for 20 seconds with soap and water Or use hand sanitiser'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Positive
+
+Label: Positive
+
+Thought process: The tweet provides clear and actionable advice on how to maintain hand hygiene, promoting a healthy practice."
+94,Coronavirus COVID19 oil price drop will lead to US recession  Business Insider httpstcoA7hsqwQDOe,"Understand the context of the tweet and get the tone of it: 'Coronavirus COVID19 oil price drop will lead to US recession  Business Insider httpstcoA7hsqwQDOe'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Extremely Negative
+
+Thought Process: The tweet uses negative terms like ""drop,"" ""lead to,"" and ""recession,"" indicating a pessimistic view of the situation and its potential consequences."
+95,"My German colleagues have confirmed that HamsterkÃufe as in how a hamster stuffs its cheeks with food is indeed the German term for panic buying This is the cute news I need today
+
+hamsterkÃufe COVID2019 covid19ireland Coronavirusireland panicbuyingireland panicbuying httpstcob5PwFU9tvz","Understand the context of the tweet and get the tone of it: 'My German colleagues have confirmed that HamsterkÃufe as in how a hamster stuffs its cheeks with food is indeed the German term for panic buying This is the cute news I need today
+
+hamsterkÃufe COVID2019 covid19ireland Coronavirusireland panicbuyingireland panicbuying httpstcob5PwFU9tvz'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"The author finds this term to be cute and provides the hashtag ""#cute news.""
+
+Tone: Positive.
+
+Label: Positive.
+
+Thought process: The author's use of the term ""cute news"" and the hashtag ""#cute news"" indicates that they find the term ""HamsterkÃufe"" to be amusing and lighthearted."
+96,"The government must provide hand sanitizer in all public buildings and transport hubs as a matter of the utmost urgency
+
+
+
+The state must penalize any business trying to profit from this crisis by rising prices for essential items like hand sanitizer COVID19ireland COVID2019 httpstcotzyJ2KwJp7","Understand the context of the tweet and get the tone of it: 'The government must provide hand sanitizer in all public buildings and transport hubs as a matter of the utmost urgency
+
+
+
+The state must penalize any business trying to profit from this crisis by rising prices for essential items like hand sanitizer COVID19ireland COVID2019 httpstcotzyJ2KwJp7'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Negative
+
+Label: Extremely Negative
+
+Thought Process: The tweet expresses strong dissatisfaction and urgency due to the lack of hand sanitizer availability and the profiteering by businesses during the crisis."
+97,What You Need If Quarantined at Home  Coronavirus  Consumer Reports httpstcofqPmJIBlfd,"Understand the context of the tweet and get the tone of it: 'What You Need If Quarantined at Home  Coronavirus  Consumer Reports httpstcofqPmJIBlfd'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Informative and slightly urgent
+
+Label: Positive
+
+Thought process: The tweet is providing helpful information to those who need it during a difficult time."
+98,"See the new FujifilmX_US XT4 and X100V at Roberts Join us on Saturday March 14th at Roberts Downtown location from 10am to 5pm
+
+
+
+Make sure to stop in and register for a FREE mystery giveaway httpstcoKUA79uARxv httpstcoP6etFT5U7f","Understand the context of the tweet and get the tone of it: 'See the new FujifilmX_US XT4 and X100V at Roberts Join us on Saturday March 14th at Roberts Downtown location from 10am to 5pm
+
+
+
+Make sure to stop in and register for a FREE mystery giveaway httpstcoKUA79uARxv httpstcoP6etFT5U7f'. Then you must assign a label from the following according to the tweet sense: Positive, Extremely positive, Negative, Extremely Negative. The I need to know your thought process behind your label assignment keep it short of about one line.",Unknown sentiment,"Tone: Extremely Positive
+
+Thought Process: The tweet uses enthusiastic language (""See the new""), invites attendees (""Join us""), and offers a free mystery giveaway, all of which convey a highly positive tone."
