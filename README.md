@@ -1,4 +1,4 @@
-# Project Description: COVID Tweet Analysis with AI Tools
+# Automatic-Data-Annotation-Using-LLMs
 
 ## Overview
 In this project, we aim to analyze COVID-related tweets using state-of-the-art AI tools and techniques. Leveraging tools such as Google Generative-AI's Gemini for sentiment analysis and Bulk for bulk data analysis, we will delve into the vast corpus of COVID tweets to uncover trends, sentiments, and insights. Additionally, we will explore basic linear regression techniques to understand the relationship between advertising expenditure and sales, using a separate dataset for analysis.
